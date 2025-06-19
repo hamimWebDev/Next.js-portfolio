@@ -35,7 +35,7 @@ const socials = [
   },
   {
     icon: <FaBriefcase />,
-    path: "https://your-other-portfolio-link.com",
+    path: "https://hamim-portfolio.vercel.app",
     gradient: "from-purple-500 via-pink-500 to-red-500",
     glow: "shadow-[0_0_16px_#a21caf]",
   },
